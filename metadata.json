@@ -1,0 +1,6 @@
+{
+  "name": "FLOWCARE",
+  "description": "AI-powered hospital token booking and smart arrival prediction system for Tamil Nadu, with Erode district focus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
